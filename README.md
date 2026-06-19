@@ -3,6 +3,13 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![Accuracy](https://img.shields.io/badge/Accuracy-98.3%25-brightgreen) ![License](https://img.shields.io/badge/License-MIT-green)
 
+## Screenshots
+
+![Accuracy Result](accuracy_result.png)
+![Accuracy Before](accuracy_before.png)
+![Extension Popup](chrome_extensions.png)
+![Notifications](notifications.png)
+![System Tray](system_tray.png)
 ---
 
 ## The Problem
