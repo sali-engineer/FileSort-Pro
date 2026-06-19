@@ -1,15 +1,15 @@
 # FileSort Pro 🗂️
-**AI-powered file organization system — Chrome Extension + Python Windows App**
+**AI-powered file organization system Chrome Extension + Python Windows App**
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![Accuracy](https://img.shields.io/badge/Accuracy-98.3%25-brightgreen) ![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
 ## The Problem
-Every computer user faces the same problem: files downloaded from the internet end up scattered randomly. CVs mixed with images, PDFs mixed with installers, important documents buried under random screenshots. Users waste hours manually organizing their Downloads folder — only for it to become messy again within days.
+Every computer user faces the same problem: files downloaded from the internet end up scattered randomly. CVs mixed with images, PDFs mixed with installers, important documents buried under random screenshots. Users waste hours manually organizing their Downloads folder only for it to become messy again within days.
 
 ## The Solution
-FileSort Pro is a two-part automation system that works silently in the background and organizes every file the moment it is downloaded — **without any user input.**
+FileSort Pro is a two-part automation system that works silently in the background and organizes every file the moment it is downloaded **without any user input.**
 
 | Metric | Result |
 |--------|--------|
@@ -33,7 +33,7 @@ FileSort Pro is a two-part automation system that works silently in the backgrou
 - Runs silently in the background, starts automatically on every Windows login
 - Watches the Downloads folder using a real-time file system watcher
 - Physically moves files to the correct organized folder automatically
-- Logs every action with timestamps — full audit trail
+- Logs every action with timestamps full audit trail
 - System tray icon with pause/resume, open log, open Downloads options
 
 ---
@@ -101,11 +101,11 @@ pip install -r requirements.txt
 
 ## Future Roadmap
 - Train a lightweight ML classifier (Random Forest / BERT) on filename patterns
-- NLP-based content analysis — read PDF/DOCX content to determine category
-- Personalization engine — learns each user's folder preferences over time
-- Anomaly detection — flags suspicious files
-- Cross-platform support — macOS and Linux
-- Cloud sync — auto-upload sorted files to Google Drive / OneDrive
+- NLP-based content analysis read PDF/DOCX content to determine category
+- Personalization engine learns each user's folder preferences over time
+- Anomaly detection flags suspicious files
+- Cross-platform support macOS and Linux
+- Cloud sync auto-upload sorted files to Google Drive / OneDrive
 
 ---
 
